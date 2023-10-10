@@ -19,4 +19,5 @@ I used a CLI client because it made the project easiest test throughout the deve
 ### FUTURE IMPROVEMENTS
 1. Authentication: implement user authentication to ensure data security.
 2. Web client: create user friendly web client using React.
-3. Persistent storage: integrate a database to store issues persistantly.
+3. Persistent storage: integrate a database to store issues persistantly (unfortunately I didn't have time to create a mongoDB acct)
+
