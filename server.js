@@ -13,7 +13,7 @@ const issues = [{
     id: 2,
     title: 'Issue 2',
     description: 'This is issue 2',
-    }];
+}];
 
 let currentId = issues.length + 1;
 
@@ -65,4 +65,6 @@ app.delete('/issues/:id', (req, res) => {
 
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
-  });
+});
+  
+module.exports = app;
