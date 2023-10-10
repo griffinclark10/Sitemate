@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/griffinclark10/Sitemate#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "axios": "^1.5.1",
+    "express": "^4.18.2",
+    "readline": "^1.3.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
